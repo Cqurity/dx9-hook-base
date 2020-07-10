@@ -24,6 +24,6 @@ lpWindowCaption = "Target Window Caption Name";
 
 ### External Library
 
-- [Dear ImGui](https://https://github.com/ocornut/imgui)
-- [Detours](https://https://github.com/microsoft/Detours)
+- [Dear ImGui](https://github.com/ocornut/imgui)
+- [Detours](https://github.com/microsoft/Detours)
 
